@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lkaarnasre99
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently pursuing GCP, AWS cloud DevOps & Networking
-- 💞️ I’m looking to collaborate on Terraform modules, monitoring and CI/CD
+- 💞️ I’m looking to collaborate on Terraform modules, CI/CD and SRE
 
 
 <!---
